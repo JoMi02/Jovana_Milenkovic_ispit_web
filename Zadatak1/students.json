@@ -1,0 +1,44 @@
+[
+    {
+        "index": 108,
+        "ime": "Aleksandar",
+        "prezime": "Asenijević",
+        "datumRodjenja": "02-10-1988",
+        "mestoRodjenja": "Kraljevo",
+        "datumUpisa": "01-10-2007",
+        "ocene": "10, 10, 7",
+        "prosek": "9"
+    },
+    {
+        "index": 110,
+        "ime": "Dimitrije",
+        "prezime": "Brezjaković",
+        "datumRodjenja": "01-05-1987",
+        "mestoRodjenja": "Kragujevac",
+        "datumUpisa": "01-10-2006",
+        "ocene": "9, 9, 9",
+        "prosek": "9"
+    },
+    {
+        "index": 117,
+        "ime": "Aleksandar",
+        "prezime": "Milenković",
+        "datumRodjenja": "17-03-1988",
+        "mestoRodjenja": "Kruševac",
+        "datumUpisa": "01-10-2007",
+        "ocene": "10, 10, 10",
+        "prosek": "10"
+    },
+
+    {
+        "index": 188,
+        "ime": "Ivan",
+        "prezime": "Ivanović",
+        "datumRodjenja": "01-06-1987",
+        "mestoRodjenja": "Surdulica",
+        "datumUpisa": "01-10-2006",
+        "ocene": "9, 10, 9",
+        "prosek": "9,33"
+
+    }
+]
